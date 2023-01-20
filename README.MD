@@ -4,9 +4,11 @@ This template allows you to deploy:
  - a D2s_v3 size VM with Windows 2019 Server [Generation 2 VM](https://docs.microsoft.com/azure/virtual-machines/generation-2) from old image base containing RCE vulnerabilities. Windows Update is disabled. 
  - a D2s_v3 size VM with with Ubuntu 22.10 Minimal-Install [Generation 2 VM](https://docs.microsoft.com/azure/virtual-machines/generation-2). This Image contains an RCE vulnerability - OpenSLLv3, and it is configured to for manual updates.
  
- Also, it deploys a Ke Valut, a Managed System Identity assigned to the VM with permission to access the Key Vault.
+ Also, it uses the Managed System Identity assigned to the VM to assign permission to access the Key Vault, Storage Account, and Azure SQL Server.
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGastori%2Fcloudmapdemoenv%2Fmain%2Fdeploy.json)
+
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fgastori%2FLAB-DCSPM-Module%2Fv.01.16.23%2Fmain.json)
 
 
 
