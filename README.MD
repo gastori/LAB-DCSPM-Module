@@ -8,7 +8,7 @@ This template allows you to deploy:
 
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fgastori%2FLAB-DCSPM-Module%2Fv.01.16.23%2Fmain.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgastori%2FLAB-DCSPM-Module%2Fv.01.16.23%2Fmain.json)
 
 
 
