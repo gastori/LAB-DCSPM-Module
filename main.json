@@ -49,7 +49,7 @@
     },
     "variables": {
         "linuxVmTemplateLink": "https://raw.githubusercontent.com/gastori/LAB-DCSPM-Module/v.01.16.23/nested/nested-linux-vm.json",
-        "windowsVmTemplateLink": "https://raw.githubusercontent.com/gastori/LAB-DCSPM-Module/v.01.16.23/nested/nested-windows-vm.jsone"
+        "windowsVmTemplateLink": "https://raw.githubusercontent.com/gastori/LAB-DCSPM-Module/v.01.16.23/nested/nested-windows-vm.json"
     },
     "resources": [
         {
