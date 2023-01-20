@@ -48,8 +48,8 @@
         }
     },
     "variables": {
-        "linuxVmTemplateLink": "uri of the Linux VM nested template",
-        "windowsVmTemplateLink": "uri of the Linux VM nested template",
+        "linuxVmTemplateLink": "https://raw.githubusercontent.com/gastori/LAB-DCSPM-Module/temp/nested/nested-linux-vm.json",
+        "windowsVmTemplateLink": "https://raw.githubusercontent.com/gastori/LAB-DCSPM-Module/temp/nested/nested-windows-vm.json"
     },
     "resources": [
         {
